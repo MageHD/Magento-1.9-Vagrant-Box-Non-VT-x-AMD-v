@@ -16,3 +16,5 @@ This repo will allow you to run a vagrant box for local Magento development. Thi
 6. Edit the vagrant file and add your hostname(local.testdomain.com) and an ip address (IP adress must be unique) 
 7. Open toolsprovision.sh and update the baseurl on line 3. (Make a note of the admin login information) 
 8. Run "vagrant up" in the project folder
+
+This Repo was brought to you by Gary Pettigrew of <a href="rushmediastudios.com">Rush Media Studios</a>
