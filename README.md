@@ -4,8 +4,9 @@ It just Works!!
 This repo will allow you to run a vagrant box for local Magento development. This was developed to fix the issue with development on computers without virtualization technology (VT-x/AMD-v). When the script is complete, you will have a fully functional Vanilla Magento install for local development.  
 #Needed: 
 1. Vagrant
-2. Virtualbix
-3. Git for Windows (Allows for running Linux commands)  
+2. Virtualbox
+3. Git for Windows (Allows for running Linux commands)
+4. Vagrant Host updater <a href="https://github.com/cogitatio/vagrant-hostsupdater">Vagrant Host Updater</a>
 
 #Steps 
 1. Install Virtualbox, Vagrant, & Git for Windows
