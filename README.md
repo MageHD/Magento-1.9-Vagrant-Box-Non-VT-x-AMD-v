@@ -18,4 +18,16 @@ This repo will allow you to run a vagrant box for local Magento development. Thi
 7. Open toolsprovision.sh and update the baseurl on line 3. (Make a note of the admin login information) 
 8. Run "vagrant up" in the project folder
 
+#Important Notes
+1. Update the Vagrant file to reflect the domain name you're using
+2. Update the toolsprovision.sh file on line 3 (Base url) with the domain you're using
 This Repo was brought to you by Gary Pettigrew of <a href="rushmediastudios.com">Rush Media Studios</a>
+
+#What is does
+1. Install Magerun Globally
+2. Install Modman Globally
+3. Install Magento 1.9.2
+4. Install Magento sample data
+
+#The Admin
+The admin credentials is user: admin pw: password123
