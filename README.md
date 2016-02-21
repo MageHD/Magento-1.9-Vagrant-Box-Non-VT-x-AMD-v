@@ -23,7 +23,7 @@ This repo will allow you to run a vagrant box for local Magento development. Thi
 2. Update the toolsprovision.sh file on line 3 (Base url) with the domain you're using
 This Repo was brought to you by Gary Pettigrew of <a href="rushmediastudios.com">Rush Media Studios</a>
 
-#What is does
+#What it does
 1. Install Magerun Globally
 2. Install Modman Globally
 3. Install Magento 1.9.2
